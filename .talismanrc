@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: .idea/azure/azureSettings.xml
+  checksum: 4567edd4698f27bf075914780cb38f5fb95e43c055b75d6fa20e1a24d9b6297b
+- filename: .idea/dbnavigator.xml
+  checksum: d6b6887575fd5be0b1fc0e06df67de3bf5b2c7aa6f6955b88b98edf90c17488e
